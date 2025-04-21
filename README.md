@@ -54,7 +54,7 @@ TaseConnect is a safety-focused taser prototype that sends the live GPS location
 
 ## Demo
 
-Check out our [project demonstration video](https://www.linkedin.com/posts/shashwat-thakur-2b2618354_iot-safety-telegrambot-activity-7319761802865573888-FAFX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg) to see TaseConnect in action!
+Check out our [project demonstration video](https://www.linkedin.com/posts/shwat_iot-safety-telegrambot-activity-7319761802865573888-VQQx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg) to see TaseConnect in action!
 
 ---
 
